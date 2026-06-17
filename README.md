@@ -1,6 +1,5 @@
  
                     RESIDENTIAL NETWORK DESIGN & DEPLOYMENT
-===============================================================================
 
 [ OVERVIEW ]
 A reliable, scalable, and secure multi-floor residential network 
