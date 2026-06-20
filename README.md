@@ -4,7 +4,7 @@
 A reliable, scalable, and secure multi-floor residential network architecture designed for seamless coverage and future-ready traffic management.
 
 ## Network Topology
-![Network Diagram](diagrams/v1.0_2025-12-08_003342.png)
+![Network Diagram](diagrams/Residential_network.drawio_2.png)
 
 ## Core Infrastructure
 * **Router:** ASUS RT-AX59U AX4200
