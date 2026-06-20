@@ -2,10 +2,6 @@
 ![Residential Network Design](diagrams/Residential_network.drawio.png)
 
 
-
- 
-                    RESIDENTIAL NETWORK DESIGN & DEPLOYMENT
-
 [ OVERVIEW ]
 A reliable, scalable, and secure multi-floor residential network 
 architecture designed for seamless coverage and future-ready 
