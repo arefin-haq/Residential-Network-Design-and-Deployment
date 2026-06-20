@@ -1,3 +1,8 @@
+### Residential Network Design
+![Residential Network Design](diagrams/Residential_network.drawio.png)
+
+
+
  
                     RESIDENTIAL NETWORK DESIGN & DEPLOYMENT
 
