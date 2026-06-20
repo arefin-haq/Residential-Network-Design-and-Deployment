@@ -1,4 +1,4 @@
-# Residential Network Design & Deployment (v1.0)
+# Residential Network Design & Deployment 
 
 ## Overview
 A reliable, scalable, and secure multi-floor residential network architecture designed for seamless coverage and future-ready traffic management.
